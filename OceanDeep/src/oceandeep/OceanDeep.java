@@ -23,7 +23,7 @@ public class OceanDeep {
         
         System.out.println(c.endsWith("0"));
         
-          System.out.println(c.endsWith("0"));
+          System.out.println(c.endsWith("1"));
        
      // La idea seria Hacer un BuffereReader , junto con un striung o un Buffer reader
        // Y comparara a ver si termina con # , si si termina que se salag de ciclo y lea otro 
