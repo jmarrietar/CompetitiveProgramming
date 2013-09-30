@@ -19,7 +19,11 @@ public class OceanDeep {
         String c="10101010001110       ".trim();
         int decimalValue = Integer.parseInt(c, 2);
         System.out.println(decimalValue );
+        
+        
         System.out.println(c.endsWith("0"));
+        
+          System.out.println(c.endsWith("0"));
        
      // La idea seria Hacer un BuffereReader , junto con un striung o un Buffer reader
        // Y comparara a ver si termina con # , si si termina que se salag de ciclo y lea otro 
