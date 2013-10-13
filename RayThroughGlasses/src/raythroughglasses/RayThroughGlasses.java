@@ -28,7 +28,7 @@ public class RayThroughGlasses {
    }
            
     */
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) throws FileNotFoundException, IOException {
        
         ArrayList <BigInteger> Fib = new ArrayList<BigInteger>(); 
         
